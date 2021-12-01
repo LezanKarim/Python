@@ -1,7 +1,5 @@
 import math
 
-print("Hei")
-
 print('Hva er lengden i centimeter?')
 x = input()
 print('lengden er ' + x + 'cm')
